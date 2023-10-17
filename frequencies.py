@@ -10,4 +10,4 @@ def frequencies(items):
             else:
                 frequencies[key] = 1
 
-    return items; 
+    return frequencies; 
